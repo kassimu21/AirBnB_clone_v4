@@ -1,5 +1,5 @@
-AirBnB clone V4 
+girBnB clone V4 
 
 Authors
-Adam Umar Faruq
-Adeleke Adeola
+Kasimu Samaila
+Lolade Olatubji

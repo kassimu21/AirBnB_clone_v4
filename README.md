@@ -1,4 +1,4 @@
-girBnB clone V4 
+AirBnB-clone-V4 
 
 Authors
 Kasimu Samaila

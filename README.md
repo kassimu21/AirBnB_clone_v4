@@ -1,5 +1,6 @@
 AirBnB-clone-V4 
 
-Authors
+Authors are :
+
 Kasimu Samaila
 Ololade Olatunji
